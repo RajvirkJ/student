@@ -17,6 +17,8 @@ public class UserProfile
 {
     //I AM A NEW COMMENT FROM Rajvir
     //more comments
+    // I am practicing
+    // adding comment right now 
     
     private String userID;//the userID
     private String genre;// the user's preferred genre of movie
