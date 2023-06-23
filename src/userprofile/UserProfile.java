@@ -15,7 +15,7 @@ package midtermexam_versiona_extensioncode;
  */
 public class UserProfile 
 {
-    //IM A NEW COMMENT FROM 
+    //I AM A NEW COMMENT FROM Rajvir
     //more comments
     
     private String userID;//the userID
